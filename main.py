@@ -19,5 +19,3 @@ except ValueError:
     raise ValueError("Некорректное значение")
 money_kzt = money_usd * usd
 print(f"Сумма в тенге: {money_kzt}")
-
-# something
